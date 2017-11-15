@@ -1,6 +1,12 @@
 ## Getting Started with STM32F407
 *Contains all of my process in understanding microprocessor.*
 
+### To Do List
+- [x] Create some report  
+- [ ] with the picture come explanation  
+- [ ] upload source code (which you created or edited) to this repository  
+- [ ] a cooler project will come then
+
 I currently study in Mechatronics Engineering.
 Which is the combination of Electrical Engineering, Mechanical Engineering and Informatics Engineering. 
 In Informatics side, understanding the microprocessor (5W+1H) is pretty necessary. 
