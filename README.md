@@ -47,7 +47,7 @@ By the way, Im gonna describe what it really looks like when the board is connec
 1. When STM32 is connected with PC using USB Type A to Mini B, LED - LD1&2 will light up. LD2 indicates power accepted, and LD1 indicates board status whether it is filled with program or not.
 ![Iddle](https://user-images.githubusercontent.com/32242310/32766657-83d1ac4a-c942-11e7-9578-427fd4bab0e2.jpg)
 
-2. And when B1 is pressed, MEMs sensor actives and 4 LEDs between B1 and B2 will light up.
+2. When blink code alreade uploaded from eclipse to the board, the 4 LED will be blink (because the getting started program is blink code) and when B1 is pressed, MEMs sensor actives and 4 LEDs between B1 and B2 will light up.
 ![B1 pressed](https://user-images.githubusercontent.com/32242310/32766749-daed27f2-c942-11e7-9a74-4c6453d1ddcb.jpg)
 
 3. It's like a mouse! When we tilt it to the left/right/up/down, different LEDs will blink.
