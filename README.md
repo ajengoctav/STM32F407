@@ -3,9 +3,9 @@
 
 ### To Do List
 - [x] Create some report  
-- [ ] with the picture come explanation  
-- [ ] upload source code (which you created or edited) to this repository  
-- [ ] a cooler project will come then
+- [x] with the picture come explanation  
+- [x] upload source code (which you created or edited) to this repository  
+- [x] a cooler project will come then
 
 I currently study in Mechatronics Engineering.
 Which is the combination of Electrical Engineering, Mechanical Engineering and Informatics Engineering. 
