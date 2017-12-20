@@ -52,12 +52,11 @@ By the way, Im gonna describe what it really looks like when the board is connec
 
 3. It's like a mouse! When we tilt it to the left/right/up/down, different LEDs will blink.
 ![tilt 1](https://user-images.githubusercontent.com/32242310/32766869-61f258f8-c943-11e7-99a1-e0bae5cde37c.jpg)
-
+Photo above shows us when the board is tilt to the left, 2LEDs indicator in the right and up side will light up. This is caused by MEMs.
 ![tilt 2](https://user-images.githubusercontent.com/32242310/32766911-99fd7f66-c943-11e7-9a1c-e4fe0bf086df.jpg)
-
-
+This is what we see when the board is tilt to the right. The indicator in the left side will light up. 
 ![tilt 3](https://user-images.githubusercontent.com/32242310/32766933-b29ba872-c943-11e7-9272-33582c650bb7.jpg)
-
+And if we turn the board a lil bit lower, the blue LED will be off and the LED in the down side will light up.
 ![tilt 4](https://user-images.githubusercontent.com/32242310/32766946-c677ef22-c943-11e7-93c1-2594fe896ca1.jpg)
-
+And if we make the board vertical (up side), the LED in the upper side will light up.
 
