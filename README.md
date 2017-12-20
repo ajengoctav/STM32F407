@@ -60,3 +60,10 @@ And if we turn the board a lil bit lower, the blue LED will be off and the LED i
 ![tilt 4](https://user-images.githubusercontent.com/32242310/32766946-c677ef22-c943-11e7-93c1-2594fe896ca1.jpg)
 And if we make the board vertical (up side), the LED in the upper side will light up.
 
+## Move to Debugging
+Debugging is identify and remove errors from the program.
+I will do debugging in windows so there are some steps to do first before the debugging starts.
+1. Install mingw. Mingw is one of the tools to manage the apps for linux to be operated in windows.
+2. Install gdb (gnu debugger) for windows
+3. Start to write the code!
+
