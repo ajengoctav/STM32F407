@@ -70,3 +70,7 @@ I will do debugging in windows so there are some steps to do first before the de
 2. Install gdb (gnu debugger) for windows
 3. Start to write the code!
 
+To make the gdb appears, we need to make the directory goes to the mingw folder where gdb.exe exists.
+The command prompt will be like :
+![hai](https://user-images.githubusercontent.com/32242310/34251570-2b8be8e0-e673-11e7-8540-476b99851563.png)
+
