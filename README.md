@@ -75,8 +75,10 @@ The command prompt will be like :
 ![hai](https://user-images.githubusercontent.com/32242310/34298036-3a4834b6-e74e-11e7-852b-f9f81880a5fb.png)
 Based on the red sign in the photo, gdb.exe exists in bin for mingw32 software. I put mingw32 in my data C (Program Files). 
 When command prompt found the directory, gnu debugger will be activated and we can write gdb's instruction.
+
 I got basic instruction for gdb [here](https://www.tutorialspoint.com/gnu_debugger/gdb_commands.htm)
-And I got the instruction for disassembly the code [here] (https://yohan.es/security/gdb/#index1h2)
+And I got the instruction for disassembly the code [here](https://yohan.es/security/gdb/#index1h2)
+
 
 
 
