@@ -1,11 +1,20 @@
 ## Getting Started with STM32F407
 *Contains all of my process in understanding microprocessor.*
 
-### To Do List
+### To Do List (Made by my lecturer - github:oektomo)
 - [x] Create some report  
 - [x] with the picture come explanation  
 - [x] upload source code (which you created or edited) to this repository  
 - [x] a cooler project will come then
+
+### What's inside this repository?
+- [x] Basic knowledge about STM32F4
+- [x] 'Tools' to be downloaded and installed before activating STM32F4
+- [x] Activating STM32F4 as a mouse
+- [x] Uploading the program from eclipse (blink) to STM32F4
+- [x] Debugging (make gdb works on windows)
+- [x] TUBES/TUGAS BESAR/FINAL TASK 
+      *about parsing method and debug the program in C&assembly language
 
 I currently study in Mechatronics Engineering.
 Which is the combination of Electrical Engineering, Mechanical Engineering and Informatics Engineering. 
