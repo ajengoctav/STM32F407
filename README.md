@@ -90,6 +90,12 @@ And I got the instruction for disassembly the code [here](https://yohan.es/secur
 
 ## Parsing
 Parsing is analyze strings (text) in order to test conformability to a logical grammar.
+I got insights from this [web](https://www.daniweb.com/programming/software-development/code/216952/to-implement-predictive-parsing-in-c) to make the parser program. Actually I didn't make it by my self, I just combine the programs i got from some webs. But. I tried to understand every lines of my parser program.
+The program tells user to give the input consists of arithmetic symbol (+ - * / etc) and the input will be pushed to the stack. If the input is right, action table (shifting info of the input) will be performed whenever we run the program. If the input is wrong, error appears when we run the program. 
+
+And I debug this program using gdb for windows. I found something interesting. Gdb can't work if we put mingw folders in Program Files. I read in mingw site that it's strongly prohibited to be placed in local disk C's main folder. So we have to place mingw in another directory. When gdb works, I used 'disas main' to show assembly language of the program.
+
+
 
 
 
