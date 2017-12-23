@@ -74,7 +74,7 @@ When the 'getting started program' in eclipse is uploaded to the board, there wi
 
 ## Move to Debugging
 Debugging is identify and remove errors from the program.
-I will do debugging in windows so there are some steps to do first before the debugging starts.
+I will do debugging (with gdb) in windows so there are some steps to do first before the debugging starts.
 1. Install mingw. Mingw is one of the tools to manage the apps for linux to be operated in windows.
 2. Install gdb (gnu debugger) for windows
 3. Start to write the code!
@@ -88,6 +88,8 @@ When command prompt found the directory, gnu debugger will be activated and we c
 I got basic instruction for gdb [here](https://www.tutorialspoint.com/gnu_debugger/gdb_commands.htm)
 And I got the instruction for disassembly the code [here](https://yohan.es/security/gdb/#index1h2)
 
+## Parsing
+Parsing is analyze strings (text) in order to test conformability to a logical grammar.
 
 
 
