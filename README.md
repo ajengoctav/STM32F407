@@ -95,6 +95,7 @@ The program tells user to give the input consists of arithmetic symbol (+ - * / 
 
 And I debug this program using gdb for windows. I found something interesting. Gdb can't work if we put mingw folders in Program Files. I read in mingw site that it's strongly prohibited to be placed in local disk C's main folder. So we have to place mingw in another directory. When gdb works, I used 'disas main' to show assembly language of the program.
 
+![image](https://user-images.githubusercontent.com/32242310/34315794-e42f84e8-e7b7-11e7-9c6b-8567bb0b625a.png)
 
 
 
